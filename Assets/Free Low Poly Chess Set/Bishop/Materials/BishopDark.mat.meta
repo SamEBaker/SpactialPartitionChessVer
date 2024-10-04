@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 519bb7ad9c0b01145b66756f3c261e30
+timeCreated: 1523877509
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Bishop/Materials/BishopDark.mat
+  uploadId: 241229

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9728b39f56ce29244a90a8c691493fef
+timeCreated: 1523847621
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Board/Materials/Darks.mat
+  uploadId: 241229

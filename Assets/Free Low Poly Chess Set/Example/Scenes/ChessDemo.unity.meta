@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e28af01b48e63f44c9698f9b28e48f11
+timeCreated: 1523850330
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Example/Scenes/ChessDemo.unity
+  uploadId: 241229

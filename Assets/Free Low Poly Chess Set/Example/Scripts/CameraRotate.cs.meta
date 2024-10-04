@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 24efa53f923e8eb42997f84aeec21456
+timeCreated: 1523878317
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Example/Scripts/CameraRotate.cs
+  uploadId: 241229

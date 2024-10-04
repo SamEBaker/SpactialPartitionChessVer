@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c0f2faf14460a5478057fd4e0575576
+timeCreated: 1523877639
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Bishop/Prefabs/BishopLight.prefab
+  uploadId: 241229

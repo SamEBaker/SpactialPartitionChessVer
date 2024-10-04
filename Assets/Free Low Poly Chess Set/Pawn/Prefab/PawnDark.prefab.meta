@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b1d95c04dd54e434aa65855a0f77d30f
+timeCreated: 1523848014
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Pawn/Prefab/PawnDark.prefab
+  uploadId: 241229

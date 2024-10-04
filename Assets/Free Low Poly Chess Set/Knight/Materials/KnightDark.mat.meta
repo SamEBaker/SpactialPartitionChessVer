@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bae910897e7359a4c8e219248d19fc3c
+timeCreated: 1524003985
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Knight/Materials/KnightDark.mat
+  uploadId: 241229

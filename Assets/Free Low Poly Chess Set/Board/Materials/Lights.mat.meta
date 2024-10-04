@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e3dbe1d6695680f4bb62ee7b5fd3a90f
+timeCreated: 1523847621
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116856
+  packageName: Free Low Poly Chess Set
+  packageVersion: 1.0
+  assetPath: Assets/Free Low Poly Chess Set/Board/Materials/Lights.mat
+  uploadId: 241229
