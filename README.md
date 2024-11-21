@@ -1,2 +1,2 @@
 # SpactialPartitionChessVer
-##[PLAY](https://samebaker.github.io/SpactialPartitionChessVer/)
+## [PLAY](https://samebaker.github.io/SpactialPartitionChessVer/)
